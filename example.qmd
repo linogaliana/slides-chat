@@ -65,7 +65,7 @@ for word, n in counts.most_common(5):
 In your Quarto project, run:
 
 ```bash
-quarto add linogaliana/quarto-extension-slides-chat
+quarto add linogaliana/slides-chat
 ```
 
 This adds the extension to `_extensions/slides-chat/`. Commit that folder along with your project.
